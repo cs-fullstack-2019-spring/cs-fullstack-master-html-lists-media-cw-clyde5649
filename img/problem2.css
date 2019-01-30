@@ -1,0 +1,22 @@
+
+code {
+    background: gray;
+    color: black;
+    display: block;
+}
+
+}
+
+header {
+
+    position: relative;
+    color: red;
+}
+
+
+section{
+    position: absolute;
+    right: 600px;
+    display: inline-block;
+
+}
